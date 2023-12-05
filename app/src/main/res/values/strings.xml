@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Button</string>
+    <string name="name">Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="textview">TextView</string>
+    <string name="button">button</string>
 </resources>
